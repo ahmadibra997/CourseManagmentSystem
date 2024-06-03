@@ -1,0 +1,47 @@
+[
+    {
+        "firstName": "Michael",
+        "lastName": "Brown",
+        "password": "pawd",
+        "specialRequests": [],
+        "userId": 1,
+        "username": "advisor1"
+    },
+    {
+        "firstName": "Emma",
+        "lastName": "williams",
+        "password": "pawd",
+        "specialRequests": [],
+        "userId": 2,
+        "username": "advisor2"
+    },
+    {
+        "firstName": "Gorge",
+        "lastName": "Wilson",
+        "password": "pawd",
+        "specialRequests": [],
+        "userId": 3,
+        "username": "advisor3"
+    },
+    {
+        "firstName": "Emma",
+        "lastName": "Ali",
+        "password": "pawd",
+        "specialRequests": [],
+        "userId": 4,
+        "username": "advisor4"
+    },
+    {
+        "firstName": "Amanda",
+        "lastName": "Rodriguez",
+        "password": "pawd",
+        "specialRequests": [
+            {
+                "student": "student1",
+                "course": "ENG203"
+            }
+        ],
+        "userId": 5,
+        "username": "AmandaR"
+    }
+]

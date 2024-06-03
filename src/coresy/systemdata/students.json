@@ -1,0 +1,60 @@
+[
+    {
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "password": "pass",
+        "phoneNumber": "011111111",
+        "registeredCourses": [
+            {
+                "courseName": "Math",
+                "courseCode": "MATH101"
+            }
+        ],
+        "endedCourses": [
+            {
+                "courseName": "English",
+                "courseCode": "ENG101"
+            }
+        ],
+        "userId": 1,
+        "username": "student1"
+    },
+    {
+        "firstName": "Bob",
+        "lastName": "Smith",
+        "password": "pwd",
+        "phoneNumber": "09999999999",
+        "registeredCourses": [
+            {
+                "courseName": "Math",
+                "courseCode": "MATH101"
+            },
+            {
+                "courseName": "Physics",
+                "courseCode": "PHY201"
+            },
+            {
+                "courseName": "Literature 2",
+                "courseCode": "ENG203"
+            }
+        ],
+        "endedCourses": [
+            {
+                "courseName": "English",
+                "courseCode": "ENG101"
+            }
+        ],
+        "userId": 2,
+        "username": "student2"
+    },
+    {
+        "firstName": "lena",
+        "lastName": "test",
+        "password": "pwd",
+        "phoneNumber": "",
+        "registeredCourses": [],
+        "endedCourses": [],
+        "userId": 3,
+        "username": "student3"
+    }
+]
