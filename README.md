@@ -25,6 +25,7 @@ The **Course Management System** is a Java-based application designed to streaml
 ### Prerequisites
 
 - Java Development Kit (JDK) 11 or higher
+- org.json library
 - NetBeans IDE
 - Git
 
